@@ -86,9 +86,11 @@
 
 ##### 웹 서버 구현 5단계
 
-##### 점진적인 리팩토링 1단계
+##### 점진적인 리팩토링 1단계 [레포지토리](https://github.com/hwanghe159/jwp-refactoring/tree/yurae_step_1) [PR](https://github.com/woowacourse/jwp-refactoring/pull/23)
 
-##### 점진적인 리팩토링 2단계
+##### 점진적인 리팩토링 2단계 [레포지토리](https://github.com/hwanghe159/jwp-refactoring/tree/yurae_step_2) PR
+
+(이하 진행 예정)
 
 ##### 점진적인 리팩토링 3단계
 
