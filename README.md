@@ -4,18 +4,6 @@
 
 ## :muscle:미션
 
-### 프리코스
-
-##### 숫자 야구게임 [레포지토리](https://github.com/hwanghe159/java-baseball-precourse/tree/hwanghe159) [PR](https://github.com/woowacourse/java-baseball-precourse/pull/187)
-
-##### 자동차 경주게임 [레포지토리](https://github.com/hwanghe159/java-racingcar-precourse/tree/hwanghe159) [PR](https://github.com/woowacourse/java-racingcar-precourse/pull/129)
-
-##### 블랙잭 [레포지토리](https://github.com/hwanghe159/java-blackjack-precourse/tree/hwanghe159) [PR](https://github.com/woowacourse/java-blackjack-precourse/pull/85)
-
-##### 오프라인 코딩테스트 [PR](https://github.com/woowacourse/java-chicken-2019/pull/14)
-
-<br/>
-
 ### 레벨1. Java, TDD, OOP
 
 ##### 문자열 계산기 [레포지토리](https://github.com/hwanghe159/java-calculator/tree/onboarding) [PR](https://github.com/woowacourse/java-calculator/pull/50)
@@ -76,29 +64,15 @@
 
 ##### 웹 서버 구현 1단계 [레포지토리](https://github.com/hwanghe159/jwp-was/tree/step-1) [PR](https://github.com/woowacourse/jwp-was/pull/102)
 
-(이하 진행 예정)
+##### 웹 서버 구현 2단계 [레포지토리](https://github.com/hwanghe159/jwp-was/tree/step2) [PR](https://github.com/woowacourse/jwp-was/pull/150)
 
-##### 웹 서버 구현 2단계
-
-##### 웹 서버 구현 3단계
-
-##### 웹 서버 구현 4단계
-
-##### 웹 서버 구현 5단계
+##### 웹 서버 구현 3단계 [레포지토리](https://github.com/hwanghe159/jwp-was/tree/step3) [PR](https://github.com/woowacourse/jwp-was/pull/174)
 
 ##### 점진적인 리팩토링 1단계 [레포지토리](https://github.com/hwanghe159/jwp-refactoring/tree/yurae_step_1) [PR](https://github.com/woowacourse/jwp-refactoring/pull/23)
 
-##### 점진적인 리팩토링 2단계 [레포지토리](https://github.com/hwanghe159/jwp-refactoring/tree/yurae_step_2) PR
+##### 점진적인 리팩토링 2단계 [레포지토리](https://github.com/hwanghe159/jwp-refactoring/tree/yurae_step_2) [PR](https://github.com/woowacourse/jwp-refactoring/pull/71)
 
-(이하 진행 예정)
-
-##### 점진적인 리팩토링 3단계
-
-##### 점진적인 리팩토링 4단계
-
-##### 점진적인 리팩토링 5단계
-
-
+<br/>
 
 ## :pencil:글쓰기
 
@@ -108,7 +82,9 @@
 
 ##### 레벨3 - 회고 (팀 프로젝트가 나에게 남긴 것) [레포지토리](https://github.com/hwanghe159/woowa-writing-2) [PR](https://github.com/woowacourse/woowa-writing-2/pull/160)
 
+##### 레벨4 - 시작 (내가 꿈꾸는 프로그래머로서의 삶) [레포지토리](https://github.com/hwanghe159/woowa-writing-2) [PR](https://github.com/woowacourse/woowa-writing-2/pull/171)
 
+<br/>
 
 ## :microphone:테코톡
 
